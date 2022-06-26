@@ -8,7 +8,7 @@ Then i choose my Jisoo
 
 I use tweepy and twint library mainly for this resporitory
 
-Here is the preference that i learn from to make these code:
+Here is the preference that i have learned to make these code:
 
 Tweepy:
 https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/tweet
