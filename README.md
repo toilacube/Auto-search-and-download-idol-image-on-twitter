@@ -4,7 +4,7 @@ My Master has ideas with twitter datas,
 
 so i think i need to do something funny first to get used to those API and data things.
 
-Then i choose my Jisoo, that is it ~.~
+Then i choose my Jisoo
 
 I use tweepy and twint library mainly for this resporitory
 
