@@ -1,4 +1,4 @@
-Here is the preferences that i have learned to make these code:
+Preferences:
 
 Tweepy:
 https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/tweet
