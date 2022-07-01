@@ -1,13 +1,3 @@
-# Auto-search-and-download-Jisoo-image-on-twitter
-
-My Master has ideas with twitter datas, 
-
-so i think i need to do something funny first to get used to those API and data things.
-
-Then i choose my Jisoo
-
-I use tweepy and twint library mainly for this resporitory
-
 Here is the preference that i have learned to make these code:
 
 Tweepy:
